@@ -9,7 +9,7 @@
 
 ## Pengenalan
 
-SecureChain-Docs adalah sistem penyimpanan dokumen berbasis blockchain yang menerapkan konsep **Komposisi** untuk memastikan integritas data menyeluruh. Sistem ini menggabungkan berbagai komponen seperti metadata, konten file, dan hash kriptografi dalam satu kesatuan yang saling ketergantungan.
+SecureChain-Docs adalah sistem penyimpanan dokumen mengadaptasi dari blockchain yang menerapkan konsep Komposisi untuk memastikan integritas data menyeluruh. Sistem ini menggabungkan berbagai komponen seperti metadata, konten file, dan hash kriptografi dalam satu kesatuan yang saling ketergantungan.
 
 Komposisi memungkinkan setiap elemen (metadata, dokumen, hash) bekerja bersama secara harmonis dalam membentuk satu kesatuan yang tidak dapat dipisahkan.
 
